@@ -1,0 +1,49 @@
+.menu-container{
+	width: 100%;
+	color: rgb(253, 247, 247);
+}
+
+.menuitems img{
+	width: 200px;
+	height: 200px;
+}
+.menu-container h1{
+	text-align: center;
+    color: black;
+    font-family: 'Kaushan Script', cursive;
+}
+.menuitems h3,span{
+  color: black;
+  font-family: 'Poppins', sans-serif;
+}
+.row1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 20px 0px 20px;
+}
+.row2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 20px 0px 20px;
+    margin-top: 30px;
+}
+.row3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 20px 0px 20px;
+    margin-top: 30px;
+}
+.menuitems{
+   padding: 30px;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.menucontent{
+    margin-top: 50px;
+}
